@@ -1,0 +1,39 @@
+
+
+body{
+	background: #F2E2D2;
+	font-family: 'Montserrat', sans-serif;
+
+}
+h1 {
+	color: red
+}
+h2 {
+	color: blue
+}
+
+div {
+
+	width: 800px;
+	padding: 16px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 32px;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+
+}
+
+.boutton {
+
+	padding:10px 16px;
+	text-decoration: none;
+
+}
+
+.banner{
+
+	border: 3px red
+
+
+}
